@@ -1,0 +1,1 @@
+# Noise bot for Slack
